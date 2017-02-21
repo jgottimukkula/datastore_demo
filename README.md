@@ -37,6 +37,10 @@ pip install -r requirements.txt
 
 ## Run locally
 
+```
+Edit the ds_helper.py file and update the <YOUR PROJECT ID> with your project id
+```
+
 From command line (DOS, Powershell, bash):
 ```
 ./demo.sh
