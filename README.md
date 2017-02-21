@@ -1,5 +1,5 @@
 # datastore_demo
-Datastore demo
+Provides sample code for datastore demo using python gcloud library.
 
 ## Setup
 
